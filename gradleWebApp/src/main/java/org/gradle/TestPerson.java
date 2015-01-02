@@ -8,6 +8,6 @@ public class TestPerson {
 		Person marco = new Person("Marco");
 		
 		System.out.println("Ciao, io sono " + person.getName());
-		System.out.println("Salve, io mi chiamo " + marco.getName());
+		System.out.println("Salve, io mi chiamo " + marco.getName() + " e sono contento di conoscerti");
 	}
 }
